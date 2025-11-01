@@ -1,0 +1,7 @@
+Acknowledgements
+
+I completed this assignment independently and did not discuss it with anyone.
+
+I did not use any generative AI tools for this work.
+
+I did not use any additional libraries beyond those provided or referenced in the course materials.
